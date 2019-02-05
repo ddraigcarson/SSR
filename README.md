@@ -1,6 +1,11 @@
 # React Server Side Rendering
 A baseline for server side rendering for your React application. This repo has a couple of tags that follow building full support for rendering React applications on the server.
 
+Copied from https://medium.freecodecamp.org/demystifying-reacts-server-side-render-de335d408fe4
+Will build it up to .include all the smaller steps I need
+* Styled components
+* SVGs
+
 ## Getting started
 Clone the repo with
 ```git clone https://github.com/alexnm/react-ssr```
